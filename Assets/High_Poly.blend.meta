@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: fd9595d36ace9774e8ab1a107a45c085
+timeCreated: 1442343079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Bolt_Breech
+    100004: Bolt_Lock
+    100006: Cartridge_Casing
+    100008: Cartridge_Warhead
+    100010: Grip_handle
+    100012: //RootNode
+    100014: Receiver_Cover
+    100016: Receiver_Inner
+    100018: Stock_Pad
+    100020: Stock_Tube
+    400000: Barrel
+    400002: Bolt_Breech
+    400004: Bolt_Lock
+    400006: Cartridge_Casing
+    400008: Cartridge_Warhead
+    400010: Grip_handle
+    400012: //RootNode
+    400014: Receiver_Cover
+    400016: Receiver_Inner
+    400018: Stock_Pad
+    400020: Stock_Tube
+    2300000: Barrel
+    2300002: Bolt_Breech
+    2300004: Bolt_Lock
+    2300006: Cartridge_Casing
+    2300008: Cartridge_Warhead
+    2300010: Grip_handle
+    2300012: Receiver_Cover
+    2300014: Receiver_Inner
+    2300016: Stock_Pad
+    2300018: Stock_Tube
+    3300000: Barrel
+    3300002: Bolt_Breech
+    3300004: Bolt_Lock
+    3300006: Cartridge_Casing
+    3300008: Cartridge_Warhead
+    3300010: Grip_handle
+    3300012: Receiver_Cover
+    3300014: Receiver_Inner
+    3300016: Stock_Pad
+    3300018: Stock_Tube
+    4300000: Grip_handle
+    4300002: Stock_Pad
+    4300004: Stock_Tube
+    4300006: Bolt_Lock
+    4300008: Bolt_Breech
+    4300010: Cartridge_Casing
+    4300012: Cartridge_Warhead
+    4300014: Receiver_Inner
+    4300016: Receiver_Cover
+    4300018: Barrel
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
